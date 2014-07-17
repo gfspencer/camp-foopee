@@ -1,2 +1,4 @@
-camp-foopee
+Camp Foopee
 ===========
+
+hi there
