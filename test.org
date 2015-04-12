@@ -1,2 +1,2 @@
 * this is a headline
-** and a subheat
+** and a subhead
