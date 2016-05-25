@@ -1,4 +1,4 @@
 Camp Foopee
 ===========
 
-hi there
+hi there!
